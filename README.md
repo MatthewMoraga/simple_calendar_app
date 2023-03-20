@@ -1,19 +1,19 @@
 # simple_calendar_app
 
-## USE
+# USE
 
-# A simple calendar app for making a schedule and saces what the user inputs.
+## A simple calendar app for making a schedule and saces what the user inputs.
 
-## Foot note
+# Foot note
 
-# I was able to get the data to persist, but I ran out of time to get the appends working with the time formula.
+## I was able to get the data to persist, and the local storage to work but I ran out of time to get the appends working with the time formula.
 
-## Tools
+# Tools
 
-# CSS, HTML, jQuery, Bootstrap, javaScript
+## CSS, HTML, jQuery, Bootstrap, javaScript
 
-## Links
+# Links
 
-# Github Page: 
+## Github Page: https://github.com/MatthewMoraga/simple_calendar_app
 
-# Website:
+## Website: https://matthewmoraga.github.io/simple_calendar_app/
